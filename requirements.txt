@@ -1,0 +1,7 @@
+requests
+bs4
+openai
+tiktoken
+python-dotenv
+langchain
+chromadb
